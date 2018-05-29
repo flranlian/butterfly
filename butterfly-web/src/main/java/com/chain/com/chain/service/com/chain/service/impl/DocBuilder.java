@@ -2,7 +2,6 @@ package com.chain.com.chain.service.com.chain.service.impl;
 
 
 
-import com.chain.mode.BaseRequest;
 import com.chain.mode.doc.ServiceBody;
 import com.chain.mode.doc.ServiceDoc;
 import com.chain.mode.doc.ServiceHeader;

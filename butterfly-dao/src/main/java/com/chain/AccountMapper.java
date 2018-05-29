@@ -5,9 +5,7 @@ import org.apache.ibatis.annotations.*;
 
 import java.util.List;
 
-/**
- * Created by lian.ran on 2018/2/13.
- */
+
 @Mapper
 public interface AccountMapper {
 

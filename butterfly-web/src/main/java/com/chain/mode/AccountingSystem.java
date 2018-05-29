@@ -10,28 +10,22 @@ package com.chain.mode;
 
 public enum AccountingSystem {
 
-	/**
-	 *	长亮
-	 */
-	Sunline("1"),
-	/**
-	 *	虚拟卡
-	 */
-	VCC("2"),
-	/**
-	 *	GreetGo
-	 */
-	GreetGo("3");
 
-	
-	private String accountingSystem;
-	
-	private AccountingSystem(String accountingSystem)
-	{
-		this.accountingSystem = accountingSystem;
-	}
-	
-	public String getAccountingSystem() {
-		return accountingSystem;
-	}
+//	Sunline("1"),
+//
+//	VCC("2"),
+//
+//	GreetGo("3");
+
+//
+//	private String accountingSystem;
+//
+//	private AccountingSystem(String accountingSystem)
+//	{
+//		this.accountingSystem = accountingSystem;
+//	}
+//
+//	public String getAccountingSystem() {
+//		return accountingSystem;
+//	}
 }

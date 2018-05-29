@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/butterfly.iml" filepath="$PROJECT_DIR$/butterfly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterfly-api/butterfly-api.iml" filepath="$PROJECT_DIR$/butterfly-api/butterfly-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterfly-dao/butterfly-dao.iml" filepath="$PROJECT_DIR$/butterfly-dao/butterfly-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterfly-web/butterfly-web.iml" filepath="$PROJECT_DIR$/butterfly-web/butterfly-web.iml" />
+    </modules>
+  </component>
+</project>

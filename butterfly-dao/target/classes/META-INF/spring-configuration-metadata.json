@@ -1,0 +1,48 @@
+{
+  "groups": [{
+    "name": "my",
+    "type": "com.chain.mode.ConfigBean",
+    "sourceType": "com.chain.mode.ConfigBean"
+  }],
+  "properties": [
+    {
+      "name": "my.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.chain.mode.ConfigBean",
+      "defaultValue": 0
+    },
+    {
+      "name": "my.greeting",
+      "type": "java.lang.String",
+      "sourceType": "com.chain.mode.ConfigBean"
+    },
+    {
+      "name": "my.max",
+      "type": "java.lang.Integer",
+      "sourceType": "com.chain.mode.ConfigBean",
+      "defaultValue": 0
+    },
+    {
+      "name": "my.name",
+      "type": "java.lang.String",
+      "sourceType": "com.chain.mode.ConfigBean"
+    },
+    {
+      "name": "my.number",
+      "type": "java.lang.Integer",
+      "sourceType": "com.chain.mode.ConfigBean",
+      "defaultValue": 0
+    },
+    {
+      "name": "my.uuid",
+      "type": "java.lang.String",
+      "sourceType": "com.chain.mode.ConfigBean"
+    },
+    {
+      "name": "my.value",
+      "type": "java.lang.String",
+      "sourceType": "com.chain.mode.ConfigBean"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="butterfly-web:war">
+    <output-path>$PROJECT_DIR$/butterfly-web/target</output-path>
+    <root id="archive" name="butterfly-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="butterfly-web:war exploded" />
+    </root>
+  </artifact>
+</component>

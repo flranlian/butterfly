@@ -115,25 +115,6 @@
                 <artifactId>netty-all</artifactId>
                 <version>4.1.4.Final</version>
             </dependency>
-            <dependency>
-                <groupId>com.msxf.coupon</groupId>
-                <artifactId>coupon-sdk</artifactId>
-                <version>1.0.3</version>
-                <exclusions>
-                    <exclusion>
-                        <groupId>com.msxf.mslog</groupId>
-                        <artifactId>slf4j-mslog4j</artifactId>
-                    </exclusion>
-                    <exclusion>
-                        <groupId>org.apache.log4j</groupId>
-                        <artifactId>com.springsource.org.apache.log4j</artifactId>
-                    </exclusion>
-                    <exclusion>
-                        <groupId>org.springframework.boot</groupId>
-                        <artifactId>spring-boot-starter-amqp</artifactId>
-                    </exclusion>
-                </exclusions>
-            </dependency>
         </dependencies>
     </dependencyManagement>
     <build>

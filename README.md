@@ -1,2 +1,2 @@
 # butterfly
-世界杯竞猜系统
+springboot+jpa脚手架
